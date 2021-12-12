@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Acaster.png"><SubTexture name="Acaster Down0000" x="0" y="0" width="676" height="676" frameX="0" frameY="0" frameWidth="676" frameHeight="676" />
+<SubTexture name="Acaster Down0001" x="676" y="0" width="676" height="676" frameX="0" frameY="0" frameWidth="676" frameHeight="676" />
+<SubTexture name="Acaster Idle0000" x="1352" y="0" width="676" height="676" frameX="0" frameY="0" frameWidth="676" frameHeight="676" />
+<SubTexture name="Acaster Idle0001" x="0" y="676" width="676" height="676" frameX="0" frameY="0" frameWidth="676" frameHeight="676" />
+<SubTexture name="Acaster Left0000" x="676" y="676" width="676" height="676" frameX="0" frameY="0" frameWidth="676" frameHeight="676" />
+<SubTexture name="Acaster Left0001" x="1352" y="676" width="676" height="676" frameX="0" frameY="0" frameWidth="676" frameHeight="676" />
+<SubTexture name="Acaster Right0000" x="0" y="1352" width="676" height="676" frameX="0" frameY="0" frameWidth="676" frameHeight="676" />
+<SubTexture name="Acaster Right0001" x="676" y="1352" width="676" height="676" frameX="0" frameY="0" frameWidth="676" frameHeight="676" />
+<SubTexture name="Acaster Up0000" x="1352" y="1352" width="676" height="676" frameX="0" frameY="0" frameWidth="676" frameHeight="676" />
+<SubTexture name="Acaster Up0001" x="0" y="2028" width="676" height="676" frameX="0" frameY="0" frameWidth="676" frameHeight="676" />
+<SubTexture name="Acaster Up0002" x="676" y="2028" width="676" height="676" frameX="0" frameY="0" frameWidth="676" frameHeight="676" />
+</TextureAtlas>

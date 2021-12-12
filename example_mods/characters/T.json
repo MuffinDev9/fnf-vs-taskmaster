@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "T T",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "T T",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "T T",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "T T",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "T T",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "T T",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "T T",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "T T",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "T T",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "T T",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/T",
+	"position": [
+		-150,
+		-160
+	],
+	"healthicon": "T",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		33,
+		33
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

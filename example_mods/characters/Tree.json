@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "hey",
+			"indices": [],
+			"name": "Hey"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tree",
+	"position": [
+		-150,
+		-410
+	],
+	"healthicon": "blank",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		33,
+		33
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 7,
+	"scale": 1
+}

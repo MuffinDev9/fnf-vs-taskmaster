@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Acaster.png"><SubTexture name="Acaster Angry0000" x="0" y="0" width="298" height="382" frameX="0" frameY="0" frameWidth="298" frameHeight="382" />
+<SubTexture name="Acaster Excited0000" x="298" y="0" width="298" height="382" frameX="0" frameY="0" frameWidth="298" frameHeight="382" />
+<SubTexture name="Acaster Normal0000" x="0" y="382" width="298" height="382" frameX="0" frameY="0" frameWidth="298" frameHeight="382" />
+<SubTexture name="Acaster Sad0000" x="298" y="382" width="298" height="382" frameX="0" frameY="0" frameWidth="298" frameHeight="382" />
+</TextureAtlas>

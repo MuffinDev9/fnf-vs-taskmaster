@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "That Was Fun.",
+			"boxState": "normal",
+			"portrait": "T",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Yes",
+			"boxState": "normal",
+			"portrait": "M",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Why Are There 2 Sentient Letters Talking To Each Other Right Now.",
+			"boxState": "normal",
+			"portrait": "Acaster",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "OMG It's James Acaster From Amazing British TV Show Taskmaster",
+			"boxState": "normal",
+			"portrait": "M",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I'm Not Just From Taskmaster..",
+			"boxState": "normal",
+			"portrait": "Acaster",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I Do Comedy..",
+			"boxState": "normal",
+			"portrait": "Acaster",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Someone Please Love Me.",
+			"boxState": "normal",
+			"portrait": "Acaster",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "No.",
+			"boxState": "normal",
+			"portrait": "M",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "What?",
+			"boxState": "normal",
+			"portrait": "Acaster",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I Said No.",
+			"boxState": "normal",
+			"portrait": "M",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "That's Mean.",
+			"boxState": "normal",
+			"portrait": "T",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Apologise To James Acaster From British TV Show Taskmaster.",
+			"boxState": "normal",
+			"portrait": "T",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Leave.",
+			"boxState": "normal",
+			"portrait": "M",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "OK.",
+			"boxState": "normal",
+			"portrait": "T",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I'm An Insturment.",
+			"boxState": "normal",
+			"portrait": "M",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Acaster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You Are Ugly"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "M",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Sad* That's Mean. I Don't Like It."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Acaster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HA, SUCK IT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Acaster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's What You Get For Being Mean To Me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "M",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's Just Start The Song."
+		},
+		{
+			"expression": "talk",
+			"text": "Again, Hell Mode Players, Envelopes = Death.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "blank"
+		}
+	]
+}

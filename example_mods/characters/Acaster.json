@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 2,
+			"anim": "hey",
+			"indices": [],
+			"name": "Acaster Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 4,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Acaster Down"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 6,
+			"anim": "singUP",
+			"loop": true,
+			"name": "Acaster Up"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 4,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "Acaster Right"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 2,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "Acaster Left"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 6,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "Acaster Up"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 4,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Acaster Right"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 2,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Acaster Left"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 2,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "Acaster Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 2,
+			"anim": "idle",
+			"loop": true,
+			"name": "Acaster Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Acaster",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Acaster",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		33,
+		33
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

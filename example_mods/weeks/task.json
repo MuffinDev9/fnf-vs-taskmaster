@@ -1,0 +1,48 @@
+{
+	"storyName": "ITS LITTLE ALEX HORNE!",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"T",
+		"M",
+		""
+	],
+	"songs": [
+		[
+			"taskmaster",
+			"T",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"over-my-shoulder",
+			"Acaster",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"im-always-seeing-you",
+			"Nish",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "task"
+}

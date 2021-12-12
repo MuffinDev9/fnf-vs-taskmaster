@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		170,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "Acaster Normal",
+			"idle_name": "Acaster Normal"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "Acaster Excited",
+			"idle_name": "Acaster Excited"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Acaster Angry",
+			"idle_name": "Acaster Angry"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "Acaster Sad",
+			"idle_name": "Acaster Sad"
+		}
+	],
+	"image": "Acaster"
+}

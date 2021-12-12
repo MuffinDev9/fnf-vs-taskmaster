@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hello, Everyone!",
+			"boxState": "normal",
+			"portrait": "Nish",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I'm Nish Kumar",
+			"boxState": "normal",
+			"portrait": "Nish",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "And I'm Mark Watson.",
+			"boxState": "normal",
+			"portrait": "Watson",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "And, Welcome To Taskonbury Live!",
+			"boxState": "normal",
+			"portrait": "Nish",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Today, We'll Be Playing:",
+			"boxState": "normal",
+			"portrait": "Nish",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I'm Always Seeing You",
+			"boxState": "normal",
+			"portrait": "Nish",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "Open Brackets",
+			"boxState": "normal",
+			"portrait": "Watson",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Do Cool Stuff",
+			"boxState": "normal",
+			"portrait": "Nish",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Closed Brackets",
+			"boxState": "normal",
+			"portrait": "Watson",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Anyway, Let's Get On With The Show!!!",
+			"boxState": "normal",
+			"portrait": "Nish",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "At This Point, I Don't Need To Tell You.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "blank"
+		}
+	]
+}

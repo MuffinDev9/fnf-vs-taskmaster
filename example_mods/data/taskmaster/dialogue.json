@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Duuun Dun Dun Duun, Duuun Dun Dun Duun",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "T"
+		},
+		{
+			"expression": "talk",
+			"text": "Duuun Dun Dun Dun.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "T"
+		},
+		{
+			"expression": "talk",
+			"text": "What Are You Singing",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "M"
+		},
+		{
+			"expression": "talk",
+			"text": "The Taskmaster Theme Song.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "T"
+		},
+		{
+			"expression": "talk",
+			"text": "Didn't Ask",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "M"
+		},
+		{
+			"expression": "talk",
+			"text": "You Literally Just Did 5 Seconds Ago",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "T"
+		},
+		{
+			"expression": "talk",
+			"text": "No",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "M"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "T"
+		},
+		{
+			"expression": "talk",
+			"text": "No",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "M"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "T"
+		},
+		{
+			"expression": "talk",
+			"text": "Shut Up",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "M"
+		},
+		{
+			"expression": "talk",
+			"text": "Why.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "T"
+		},
+		{
+			"expression": "talk",
+			"text": "Idk",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "M"
+		},
+		{
+			"expression": "talk",
+			"text": "Sing",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "M"
+		},
+		{
+			"expression": "talk",
+			"text": "What.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "T"
+		},
+		{
+			"expression": "talk",
+			"text": "I SAID SING",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "M"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok, Ok. I'll Sing",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "T"
+		},
+		{
+			"expression": "talk",
+			"text": "Good",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "M"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "For The Madmen Playing On Hell Mode, The Envelopes Instantly Kill You."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Idk How To Change It, So Deal With It, You Wimp"
+		}
+	]
+}
